@@ -18,4 +18,3 @@ By breaking down text into visual stories, this tool helps improve reader retent
 
 ---
 
-### Run Locally
